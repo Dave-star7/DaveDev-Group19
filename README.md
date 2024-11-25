@@ -1,5 +1,3 @@
-# DaveDev-Group19
-
 ---
 
 # 🚀 **David's Portfolio Website**  
