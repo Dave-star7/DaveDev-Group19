@@ -65,9 +65,9 @@ https://dave-star7.github.io/DaveDev-Group19
 ## 📬 **Contact**  
 Feel free to reach out if you'd like to collaborate or discuss opportunities!  
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **GitHub:** [github.com/yourusername](#)  
+- **Email:** (mailto:your.email@davidmutia777@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/david-mutia-2231a9240
+- **GitHub:** https://github.com/Dave-star7
 
 ---
 
