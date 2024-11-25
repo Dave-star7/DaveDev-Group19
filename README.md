@@ -74,7 +74,7 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 ## 🛠️ **Usage Instructions**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/portfolio-website.git  
+   https://github.com/Dave-star7/DaveDev-Group19
    ```  
 2. Open `index.html` in your browser to view the site locally.  
 
