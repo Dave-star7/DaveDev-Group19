@@ -59,7 +59,7 @@ https://dave-star7.github.io/DaveDev-Group19
 ## 📸 **Preview**  
 
 ## Preview
-![Portfolio Preview](![https://github.com/Dave-star7/DaveDev-Group19/blob/main/Priview.png)
+![Portfolio Preview](Priview.png)
 )
 
 
