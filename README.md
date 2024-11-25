@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ❤️ **Acknowledgments**  
 - Inspired by modern web design trends.  
-- Special thanks to **[Your Name]** for continuous improvement and development.  
+- Special thanks to Dave for continuous improvement and development.  
 
 ---  
 
