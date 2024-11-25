@@ -29,16 +29,22 @@ This portfolio was created using:
 ## 📂 **Directory Structure**  
 
 ```
-📦 Portfolio Website  
- ┣ 📄 index.html             # Main HTML file  
- ┣ 📄 styles.css             # CSS file for styling  
- ┣ 📄 script.js              # JavaScript file for interactivity  
- ┣ 📄 LICENSE                # License for the project  
- ┣ 📄 README.md              # Project documentation  
- ┣ 📄 image1.jpg             # Project or section images  
- ┣ 📄 image2.png             # Additional images  
- ┣ 📄 favicon.ico            # Website favicon  
- ┗ 📄 other-file.ext         # Other relevant files (if any)  
+📦 Portfolio Website
+ ┣ 📜 index.html              # Main HTML file
+ ┣ 📜 styles.css              # CSS file for styling
+ ┣ 📜 js.js                   # JavaScript file for interactivity
+ ┣ 📜 README.md               # Project documentation
+ ┣ 📜 LICENSE                 # License file
+ ┣ 📜 Background.webp         # Background image
+ ┣ 📜 Dave.jpeg               # Profile or project image
+ ┣ 📜 David Mutia CV.pdf      # CV document
+ ┣ 📜 Grocery.jpeg            # Project image
+ ┣ 📜 Hacking.avif            # Thematic image
+ ┣ 📜 Networking.avif         # Thematic image
+ ┣ 📜 OVBMS.jpeg              # Onroad Vehicle Management System image
+ ┣ 📜 Programming.avif        # Thematic image
+ ┗ 📜 World-Wide-Web.avif     # Thematic image
+
 
 ```
 
